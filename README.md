@@ -8,8 +8,8 @@ This project is an API that uses the OpenAI API to generate responses and follow
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Saneeitas/openai-chatbot-api.git
     cd <your dir name>
+    git clone https://github.com/Saneeitas/openai-chatbot-api.git
     ```
 
 2. Install dependencies:
